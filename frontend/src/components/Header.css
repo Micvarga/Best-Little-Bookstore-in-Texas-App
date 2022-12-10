@@ -1,0 +1,29 @@
+.navSection {
+    padding: 0px;
+    margin: auto;
+    position: relative;
+    width: 100%;
+    max-width: 450px;
+}
+
+.navBar {
+    padding: 0px;
+    min-height: 4rem;
+}
+
+.navBar,
+.navSection {
+    background-color: #fefefe;
+    background-image: linear-gradient(to right, #748aac, #022a69);
+}
+
+.brandName {
+    text-align: center;
+    font-weight: 600;
+    color: #fefefe;
+}
+
+.navbar-toggler {
+    color: #fefefe;
+    border-color: #fefefe;
+}
